@@ -9,59 +9,59 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Pks4Core
 build_property.RootNamespace = Pks4Core
-build_property.ProjectDir = C:\Users\Blaskowitz\source\repos\Pks4Core\Pks4Core\
+build_property.ProjectDir = /Users/kseniyarozova/Desktop/prac 4/pks_4/Pks4Core/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Blaskowitz\source\repos\Pks4Core\Pks4Core
+build_property.MSBuildProjectDirectory = /Users/kseniyarozova/Desktop/prac 4/pks_4/Pks4Core
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Blaskowitz/source/repos/Pks4Core/Pks4Core/Views/Authorized/FilterMessages.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aG9yaXplZFxGaWx0ZXJNZXNzYWdlcy5jc2h0bWw=
+[/Users/kseniyarozova/Desktop/prac 4/pks_4/Pks4Core/Views/Authorized/FilterMessages.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXV0aG9yaXplZC9GaWx0ZXJNZXNzYWdlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Blaskowitz/source/repos/Pks4Core/Pks4Core/Views/Authorized/messages.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aG9yaXplZFxtZXNzYWdlcy5jc2h0bWw=
+[/Users/kseniyarozova/Desktop/prac 4/pks_4/Pks4Core/Views/Authorized/messages.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXV0aG9yaXplZC9tZXNzYWdlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Blaskowitz/source/repos/Pks4Core/Pks4Core/Views/Authorized/MessagesTable.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aG9yaXplZFxNZXNzYWdlc1RhYmxlLmNzaHRtbA==
+[/Users/kseniyarozova/Desktop/prac 4/pks_4/Pks4Core/Views/Authorized/MessagesTable.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXV0aG9yaXplZC9NZXNzYWdlc1RhYmxlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Blaskowitz/source/repos/Pks4Core/Pks4Core/Views/Authorized/SendMessage.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aG9yaXplZFxTZW5kTWVzc2FnZS5jc2h0bWw=
+[/Users/kseniyarozova/Desktop/prac 4/pks_4/Pks4Core/Views/Authorized/SendMessage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXV0aG9yaXplZC9TZW5kTWVzc2FnZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Blaskowitz/source/repos/Pks4Core/Pks4Core/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[/Users/kseniyarozova/Desktop/prac 4/pks_4/Pks4Core/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Blaskowitz/source/repos/Pks4Core/Pks4Core/Views/Home/login.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxsb2dpbi5jc2h0bWw=
+[/Users/kseniyarozova/Desktop/prac 4/pks_4/Pks4Core/Views/Home/login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9sb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Blaskowitz/source/repos/Pks4Core/Pks4Core/Views/Home/register.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxyZWdpc3Rlci5jc2h0bWw=
+[/Users/kseniyarozova/Desktop/prac 4/pks_4/Pks4Core/Views/Home/register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9yZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Blaskowitz/source/repos/Pks4Core/Pks4Core/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+[/Users/kseniyarozova/Desktop/prac 4/pks_4/Pks4Core/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Blaskowitz/source/repos/Pks4Core/Pks4Core/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[/Users/kseniyarozova/Desktop/prac 4/pks_4/Pks4Core/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Blaskowitz/source/repos/Pks4Core/Pks4Core/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[/Users/kseniyarozova/Desktop/prac 4/pks_4/Pks4Core/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Blaskowitz/source/repos/Pks4Core/Pks4Core/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+[/Users/kseniyarozova/Desktop/prac 4/pks_4/Pks4Core/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Blaskowitz/source/repos/Pks4Core/Pks4Core/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-n8r9un9dmh
+[/Users/kseniyarozova/Desktop/prac 4/pks_4/Pks4Core/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-jzlfsnjz5s
